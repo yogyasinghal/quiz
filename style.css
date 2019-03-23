@@ -1,0 +1,64 @@
+p{
+	color:blue;
+	text-shadow:2px 3px 2px violet;
+	font-size:30px;
+ }
+h5{
+	color:brown;
+	text-shadow:1px 1px 1px yellow;
+	font-size:22px;
+}
+img{
+	 display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+h2{
+	color:OrangeRed;
+	text-shadow:3px 4px 3px yellow ;
+	font-size:45px;
+	text-align: center;
+   }
+.option{
+	color:Crimson;
+	text-shadow:2px 3px 1px yellow;
+	font-size:20px;
+    }
+
+.option:hover{
+	color:DarkGreen;
+	text-shadow:2px 3px 1px lime;
+    }
+sup {
+	vertical-align: super;
+	font-size: smaller;
+}
+sub{
+	vertical-align:sub
+	font-size:smaller;
+}
+body{
+	background-color:LightGoldenRodYellow ;
+	background-image: url("pic6.jpg");
+	background-size: cover;
+	
+}
+h3{
+                   color:DarkGreen;
+	text-shadow:2px 3px 1px lime;
+	font-style: italic;
+	text-align: center;
+	font-size:25px;
+    }
+h4{
+                   color:DarkGreen;
+	text-shadow:2px 3px 1px yellow;
+	font-style: italic;
+	font-size:20px;
+    }
+
+input[type=button]{
+	color:navy;
+	text-shadow:20px 30px 1px yellow;
+	font-weight:bold;
+}
